@@ -1,5 +1,5 @@
 # media-bias-detection :mag: :mag_right:
-NLP-media bias detection with traditional machine learning and DNN
+NLP-media bias detection with traditional machine learning and DNN.
 Inspire and extend the work from the medium article 
 :point_right: https://towardsdatascience.com/media-bias-detection-using-deep-learning-libraries-in-python-44efef4918d1
 
